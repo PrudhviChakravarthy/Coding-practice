@@ -1,0 +1,57 @@
+
+### Difficulty Levels
+- ⭐️: Beginner
+- ⭐️⭐️: Intermediate
+# Coding Practice
+
+Welcome to Coding Proactive! This repository is my go-to resource for learning programming, specifically Python and Node.js.
+
+### Difficulty Levels
+- ⭐️: Beginner
+- ⭐️⭐️: Intermediate
+- ⭐️⭐️⭐️: Advanced
+
+## Python
+
+
+
+| Topic                            | Difficulty  |
+|----------------------------------|------------|
+| Introduction to Python           | ⭐️          |
+| Python Basics                    | ⭐️          |
+| Data Types and Variables         | ⭐️          |
+| Control Flow (if, else, loops)   | ⭐️⭐️        |
+| Functions and Modules            | ⭐️⭐️        |
+| Data Structures (Lists, Dictionaries) | ⭐️⭐️        |
+| File Handling                    | ⭐️⭐️        |
+| Exception Handling               | ⭐️⭐️⭐️      |
+| Object-Oriented Programming      | ⭐️⭐️⭐️      |
+| Regular Expressions              | ⭐️⭐️⭐️      |
+| Working with APIs                | ⭐️⭐️⭐️      |
+| Web Scraping with BeautifulSoup   | ⭐️⭐️⭐️      |
+
+## Node.js
+
+### Difficulty Levels
+- ⭐️: Beginner
+- ⭐️⭐️: Intermediate
+- ⭐️⭐️⭐️: Advanced
+
+| Topic                            | Difficulty  |
+|----------------------------------|------------|
+| Introduction to Node.js          | ⭐️          |
+| Node.js Basics                   | ⭐️          |
+| Asynchronous Programming         | ⭐️⭐️        |
+| File System Operations           | ⭐️⭐️        |
+| RESTful APIs with Express.js     | ⭐️⭐️⭐️      |
+| Real-Time Applications with Socket.io | ⭐️⭐️⭐️      |
+| Authentication and Authorization | ⭐️⭐️⭐️      |
+| Connecting to Databases (MongoDB) | ⭐️⭐️⭐️⭐️    |
+| Testing with Mocha and Chai      | ⭐️⭐️⭐️⭐️    |
+| Serverless Functions in Node.js  | ⭐️⭐️⭐️⭐️    |
+
+## Getting Started
+Clone this repository to get started with your learning journey. Feel free to explore the topics based on your current skill level and areas of interest.
+
+Happy coding!
+
