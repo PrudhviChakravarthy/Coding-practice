@@ -1,15 +1,6 @@
 
-### Difficulty Levels
-- ⭐️: Beginner
-- ⭐️⭐️: Intermediate
-# Coding Practice
 
 Welcome to Coding Proactive! This repository is my go-to resource for learning programming, specifically Python and Node.js.
-
-### Difficulty Levels
-- ⭐️: Beginner
-- ⭐️⭐️: Intermediate
-- ⭐️⭐️⭐️: Advanced
 
 ## Python
 
@@ -31,11 +22,6 @@ Welcome to Coding Proactive! This repository is my go-to resource for learning p
 | Web Scraping with BeautifulSoup   | ⭐️⭐️⭐️      |
 
 ## Node.js
-
-### Difficulty Levels
-- ⭐️: Beginner
-- ⭐️⭐️: Intermediate
-- ⭐️⭐️⭐️: Advanced
 
 | Topic                            | Difficulty  |
 |----------------------------------|------------|
